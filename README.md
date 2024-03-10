@@ -4,7 +4,7 @@ Currently it only uses the current weather in Rotterdam, Netherlands so if you'r
 
 just enter your question into the input field, press the button and advice on how to care for your plant will be given back to you.
 
-#installing
+## Installing
 To be able to use the chatbot you'll have to follow the following instructions:
 ```
 npm init
