@@ -1,6 +1,7 @@
 # plantChatter
 This is a chatbot which can answer all your questions about your plants and will even use the weather report to see what a plant needs during that days weather.
 Currently it only uses the current weather in Rotterdam, Netherlands so if you're from a different city/country the bot sadly won't be the one for you (yet).
+it is currently only usable on pc
 
 just enter your question into the input field, press the button and advice on how to care for your plant will be given back to you.
 
