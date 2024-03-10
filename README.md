@@ -26,3 +26,8 @@ Now you'll be able to run the server using this command:
 npm start
 ```
 now you'll be able to run your front end and enter your questions!
+
+
+screenshot (context: for assignment video)
+![image](https://github.com/PurpleAliennn/plantChatter/assets/113838351/05d16325-0caa-4fa6-aa04-f315ba0488ae)
+
